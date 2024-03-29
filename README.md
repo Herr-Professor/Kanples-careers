@@ -1,2 +1,2 @@
 # Kanples-careers
-Anwebsite to show job openings and accept applications
+A website to show job openings and accept applications
